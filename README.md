@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Monty and I'm a Britsh 13 year old web developer, from The UK.</h2>
+<h2 align="left">Hi 👋! My name is Monty and I'm a Britsh 15 year old web developer, from The UK.</h2>
 # 💫 About Me:
 🔭 I’m currently working on my web development. <br>🤝 I’m looking for help with java script.<br>🌱 I’m currently learning html, CSS and JavaScript <br>⚡ Fun fact is that I'm only 13 years old
 
